@@ -9,6 +9,8 @@
 
 ## About Laravel
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/43b8197261c240c9ba54ec2b5b8e9a60)](https://www.codacy.com/app/simonpeters/coown-backend?utm_source=github.com&utm_medium=referral&utm_content=ThePetersBrother/coown-backend&utm_campaign=badger)
+
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
