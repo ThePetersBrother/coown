@@ -19,3 +19,4 @@ Route::get('/user', function (Request $request) {
 
 Route::resource('authenticate', 'AuthenticateController', ['only' => ['index']]);
 Route::post('authenticate', 'AuthenticateController@authenticate');
+Route::post('facebook', 'AuthenticateController@facebook');

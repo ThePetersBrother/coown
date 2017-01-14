@@ -1,7 +1,10 @@
 {
     "name": "laravel/laravel",
     "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "keywords": [
+        "framework",
+        "laravel"
+    ],
     "license": "MIT",
     "type": "project",
     "require": {
@@ -9,7 +12,8 @@
         "barryvdh/laravel-cors": "^0.8.2",
         "laravel/framework": "5.3.*",
         "tymon/jwt-auth": "^0.5.9",
-        "yab/laracogs": "^2.1"
+        "yab/laracogs": "^2.1",
+        "sammyk/laravel-facebook-sdk": "^3.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
